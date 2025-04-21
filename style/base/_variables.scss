@@ -1,0 +1,465 @@
+.nav__a{
+    height: 12px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 42px;
+    text-decoration: none;
+    transition: transform 0.3s ease-in-out;
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+.basketboll__h1{
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 75px;
+    position: relative;
+    top: 80px;
+}
+.header__news{
+    position: relative;
+    top: -490px;
+    height: 190px;
+}
+.basketboll__img{
+    position: absolute;
+    top: 76px;
+    padding-left: 126px;
+}
+.about__h4{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+.basketboll__about{
+    position: relative;
+    top: 230px;
+    padding-left: 350px;
+}
+.news__news-left{
+    margin-left: 180px;
+    margin-top: 112px;
+}
+.news-left__h4{
+    width: 90px;
+    height: 34px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+}
+.news-left__p{
+    position: relative;
+    top: -70px;
+    padding-left: 18px;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 101%;
+}
+.news-left__p2{
+    position: relative;
+    top: -70px;
+    padding-left: 18px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 124%;
+}
+.news-left__div2{
+    position: relative;
+    top: -28px;
+}
+.news-left__div{
+    margin-top: 24px;
+}
+.sports__title{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+    padding-top: 80px;
+}
+.sports__football{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 1000;
+    font-size: 37px;
+    line-height: 75px;
+    border-radius: 6px;
+}
+.football__img{
+    margin-top: 40px;
+}
+.title__div{
+    display: flex;
+    margin-top: 16px;
+    gap: 30px;
+    height: 430px;
+}
+.sports__basket{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 270px;
+    height: 170px;
+    font-weight: 1000;
+    font-size: 37px;
+    line-height: 75px;
+    margin-top: 30px;
+    border-radius: 6px;
+}
+.basket__span{
+    position: relative;
+    top: -22px;
+    font-weight: 1000;
+}
+.pin-pong{
+    position: relative;
+    top: -234px;
+    width: 270px;
+    height: 118px;
+    border-radius: 6px;
+    padding: 20px 0 0 0;
+}
+.sports__ping{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    font-weight: 1000;
+    font-size: 37px;
+    line-height: 39px;
+}
+.football{
+    width: 270px;
+    height: 116px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+}
+.football1{
+    width: 270px;
+    height: 169px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+}
+.football2{
+    width: 270px;
+    height: 118px;
+    display: flex;
+    position: relative;
+    top: -110px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+}
+.trending-news{
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+.trending-news__title{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+    padding: 30px 0 0 36px;
+}
+.sport-cycling{
+    display: flex;
+    height: 608px;
+    margin-top: 80px;
+    gap: 30px;
+}
+.race-hose{
+    display: flex;
+    margin-top: 16px;
+    margin-left: 36px;
+}
+.race-hose__news{
+    padding-left: 20px;
+}
+.news__p{
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 101%;
+    padding-top: 14px;
+}
+.news__h3{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 137%;
+    padding-top: 4px;
+}
+.news__p2{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 124%;
+    padding-top: 12px;
+}
+.div-line{
+    width: 280px;
+    height: 1px;
+    border-radius: 2px;
+}
+.sport-cycling__news-left{
+    height: 610px;
+}
+.news-left__restangle{
+    position: relative;
+    top: -614px;
+}
+.sport-cycling__div{
+   position: relative;
+   top: -770px;
+}
+.div__p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101%;
+    padding-left: 36px;
+    position: relative;
+    top: -14px;
+}
+.news-left__h3{
+    padding-left: 36px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 100%;
+}
+.div__p1{
+    width: 108px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -424px;
+    margin-left: 36px;
+    border: solid 1px white;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+}
+.football-center{
+    margin-top: 80px;
+    height: 518px;
+}
+.football-center__img{
+    position: relative;
+    top: -522px;
+}
+.football-center__div{
+    position: relative;
+    top: -780px;
+    margin-left: 48px;
+}
+.football-center__p{
+    width: 108px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px white;
+    position: relative;
+    top: -230px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+}
+.football-center__data{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101%;
+}
+.football-center__about{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    padding-top: 10px;
+}
+.football-center__p2{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    padding-top: 14px;
+}
+.football__btn{
+    display: flex;
+    justify-content: end;
+    padding: 25px 25px 20px 0;
+    gap: 23px;
+}
+.recent-news__cards{
+    display: flex;
+    margin-top: 16px;
+    gap: 30px;
+}
+.recent-news{
+    margin-top: 80px;
+    display: flex;
+}
+.recent-news__title{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+}
+.karate__imgs{
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+}
+.karate__about{
+    position: relative;
+    top: -64px;
+    padding-left: 18px;
+}
+.karate__p{
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 101%;
+}
+.karate__h4{
+    font-weight: 410;
+    font-size: 16px;
+    line-height: 124%;
+}
+.recent-news-center{
+    width: 270px;
+    height: 300px;
+    border-radius: 6px;
+}
+.center__about{
+    display: flex;
+    padding: 14px 7px 0 14px;
+}
+.about__p{
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 101%;
+}
+.about__h5{
+    font-weight: 410;
+    font-size: 16px;
+    line-height: 124%;
+}
+.about-information{
+   padding: 12px 0 0 12px;
+}
+.coments__title{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 38px;
+}
+.coments__card{
+    margin-top: 16px;
+    display: flex;
+    gap: 30px;
+}
+.card__p{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    width: 76px;
+    height: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -230px;
+    margin-left: 274px;
+    border-radius: 4px;
+}
+.card__icon{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.card__p2{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+}
+.card__data{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 101%;
+    padding-top: 20px;
+}
+.card__h4{
+    font-weight: 415;
+    font-size: 22px;
+    line-height: 29px;
+    padding-top: 18px;
+}
+.card__p3{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 124%;
+    padding-top: 13px;
+}
+.btns{
+    display: flex;
+    gap: 30px;
+    margin-top: 34px;
+}
+.subscription{
+    position: relative;
+    padding-top: 82px;
+    height: 385px;
+}
+.subscription__h2{
+    font-weight: 1000;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: 1%;
+    position: relative;
+    top: -310px;
+}
+.sub__div{
+    margin-left: 68px;
+}
+.email{
+    display: flex;
+    position: relative;
+    align-items: center;
+    top: -300px;
+}
+.american-fut-player{
+    position: absolute;
+    top: 80px;
+    margin-left: 650px;
+}
+.face{
+    position: relative;
+    top: -2px;
+    transition: transform 0.4s ease-in-out;
+    cursor: pointer;
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+.face2{
+    transition: transform 0.4s ease-in-out;
+    cursor: pointer;
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+.btns2{
+    display: flex;
+    position: relative;
+    top: 48px;
+    justify-content: space-between;
+}
+.btn2__btn{
+    display: flex;
+    gap: 23px;
+}

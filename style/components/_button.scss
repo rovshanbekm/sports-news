@@ -1,0 +1,102 @@
+.nav__btn{
+    display: flex;
+    width: 100px;
+    height: 36px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.about__btn{
+    width: 286px;
+    height: 62px;
+    border-radius: 6px;
+    margin-top: 24px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.btn1{
+    width: 70px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 3px;
+    transition: all 0.4s cubic-bezier(0, 0, 0.2, 1);
+    cursor: pointer;
+    &:hover{
+        all: cubic-bezier(0, 0, 0.2, 1);
+    }
+}
+.btn2{
+    width: 35px;
+    height: 35px;
+    margin-top: 6px;
+    border: none;
+    border-radius: 50%;
+    transition: all 0.4s cubic-bezier(0, 0, 0.2, 1);
+    cursor: pointer;
+    &:hover{
+        all: cubic-bezier(0, 0, 0.2, 1);
+    }
+}
+.recent-news-center__btn{
+    width: 80px;
+    height: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border: none;
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 3px;
+    transition: all 0.4s cubic-bezier(0, 0, 0.2, 1);
+    cursor: pointer;
+    &:hover{
+        all: cubic-bezier(0, 0, 0.2, 1);
+    }
+}
+.btn3{
+    width: 70px;
+    height: 50px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border: none;
+    transition: all 0.4s cubic-bezier(0, 0, 0.2, 1);
+    cursor: pointer;
+    &:hover{
+        all: cubic-bezier(0, 0, 0.2, 1);
+    }
+}
+.btn4{
+    width: 70px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    transition: all 0.4s cubic-bezier(0, 0, 0.2, 1);
+    cursor: pointer;
+    &:hover{
+        all: cubic-bezier(0, 0, 0.2, 1);
+    }
+}
+.btn5{
+    width: 74px;
+    height: 58px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+    border-top-right-radius: 6px;
+    border-end-end-radius: 6px;
+}

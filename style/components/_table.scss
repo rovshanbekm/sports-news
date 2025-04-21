@@ -1,0 +1,45 @@
+table{
+    width: 570px;
+    height: 200px;
+    padding: 16px 23px 8px 31px;
+    border-radius: 6px;
+    margin-top: 16px;
+}
+.table-left{
+    margin-left: 30px;
+}
+.table-title{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+}
+.th{
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 100%;
+}
+tr {
+    height: 38px;
+}
+.td__span{
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 100%;
+}
+.td__span2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    padding-left: 18px;
+}
+.club{
+    position: relative;
+    top: 6px;
+}
+.btn__span{
+    font-family: DM Sans;
+font-weight: 700;
+font-size: 20px;
+line-height: 38px;
+letter-spacing: 9%;
+}

@@ -1,0 +1,16 @@
+.input{
+    width: 440px;
+    height: 56px;
+    border-top-left-radius: 6px;
+    border-end-start-radius: 6px;
+    border: 1px solid #262626;
+    padding-left: 24px;
+}
+.email ::placeholder{
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 21px;
+line-height: 28px;
+letter-spacing: 1%;
+color: #2626265E;
+}
